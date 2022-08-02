@@ -1,0 +1,177 @@
+<html>
+ <head> 
+  <title> STREAMHUB</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <link rel="shortcut icon" type="image/x-icon" href="https://telegra.ph/file/a68db8a0d833fc23ffdba.jpg"> 
+  <link rel="stylesheet" href="assets/style2.css"> 
+  <link id="rmp-dress-code" type="text/css" rel="stylesheet preload" as="style" href="https://cdn.radiantmediatechs.com/rmp/7.0.3/css/rmp-s3.min.css"> 
+ </head> 
+ <body style="margin:0px;padding:0px; background:white;"> 
+  <div id="loading" class="loading"> 
+   <div class="loading-text"> 
+    <span class="loading-text-words">S</span> 
+    <span class="loading-text-words">T</span> 
+    <span class="loading-text-words">R</span> 
+    <span class="loading-text-words">E</span> 
+    <span class="loading-text-words">A</span> 
+    <span class="loading-text-words">M</span> 
+    <span class="loading-text-words">-</span> 
+    <span class="loading-text-words">H</span> 
+    <span class="loading-text-words">U</span> 
+    <span class="loading-text-words">B</span> 
+   </div> 
+  </div> 
+  <div style="top: 0px;z-index:99;"> 
+   <div id="rmpPlayer" class="rmp-container rmp-color-button rmp-chrome rmp-container-fade-in rmp-mobile rmp-live-dvr rmp-no-hint rmp-wait-for-metadata rmp-quick-rewind-or-forward-ui rmp-quick-rewind-and-forward-ui rmp-dvr-live rmp-small rmp-native-captions" style="opacity: 1; visibility: visible; width: 100%; height: 231.75px;" role="application" tabindex="0">
+    <div class="rmp-content">
+     <video class="rmp-object-fit-contain rmp-video" tabindex="-1" x-webkit-airplay="allow" playsinline="true" poster="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=" src="blob:https://streamhub.hopto.org/e4bcf039-518c-4000-9d06-f8ea381b1bd3"></video>
+     <div class="rmp-poster" style="background-color: rgb(0, 0, 0);">
+      <img class="rmp-poster-img rmp-object-fit-fill" alt="Media player poster frame" src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2022-07-31/220731144008.jpg">
+     </div>
+     <div class="rmp-cc-area" style="width: 412px; height: 232px; display: none;"></div>
+    </div>
+    <button class="rmp-button rmp-mobile-central-ui rmp-mobile-show-play rmp-color-bg" type="button" aria-label="Play"><span class="rmp-i rmp-i-play"></span></button>
+    <div class="rmp-loading-spin rmp-color-bg">
+     <div class="rmp-loading-spin-bounce rmp-bounce-1 rmp-color-bg-button"></div>
+     <div class="rmp-loading-spin-bounce rmp-bounce-2 rmp-color-bg-button"></div>
+    </div>
+    <button class="rmp-button rmp-volume rmp-module rmp-color-bg" type="button" aria-label="Mute" style="display: block;">
+     <div class="rmp-module-button">
+      <span class="rmp-i rmp-i-volume"></span>
+     </div>
+     <div class="rmp-hint rmp-color-bg rmp-first-hint">
+      Volume
+     </div></button>
+    <div class="rmp-control-bar rmp-color-bg">
+     <button class="rmp-play-pause rmp-button rmp-i rmp-i-play" type="button" aria-label="Play">
+      <div class="rmp-control-bar-hint rmp-color-bg" style="left: 50%;">
+       Play
+      </div></button>
+     <button class="rmp-quick-rewind-or-forward rmp-button rmp-i rmp-i-quick-rewind-10" type="button" aria-label="Quick Rewind">
+      <div class="rmp-control-bar-hint rmp-color-bg">
+       Quick Rewind
+      </div></button>
+     <button class="rmp-quick-rewind-or-forward rmp-button rmp-quick-rewind-and-forward rmp-i rmp-i-quick-forward-10" type="button" aria-label="Quick Forward">
+      <div class="rmp-control-bar-hint rmp-color-bg">
+       Quick Forward
+      </div></button>
+     <div class="rmp-time-elapsed rmp-color-bg">
+      <span class="rmp-time-elapsed-text">LIVE</span>
+     </div>
+     <div class="rmp-seek-bar" role="slider" tabindex="0" aria-valuemin="0" aria-valuemax="100" aria-label="Seek Bar">
+      <div class="rmp-time-total">
+       <div class="rmp-loaded"></div>
+       <div class="rmp-current rmp-color-bg-button"></div>
+       <div class="rmp-handle rmp-color-bg-button"></div>
+       <div class="rmp-indicator rmp-color-bg">
+        <span class="rmp-time-indicator"></span>
+       </div>
+      </div>
+     </div>
+     <div class="rmp-duration rmp-color-bg">
+      <span class="rmp-duration-text">LIVE</span>
+      <span class="rmp-i rmp-i-dvr"></span>
+     </div>
+     <button class="rmp-fullscreen rmp-button rmp-i rmp-i-resize-full" type="button" aria-label="Full Screen">
+      <div class="rmp-control-bar-hint rmp-color-bg" style="margin-left: 0px; right: 4px; left: auto;">
+       Full Screen
+      </div></button>
+    </div>
+    <img alt="Media player logo" class="rmp-logo rmp-logo-top-left" src="https://telegra.ph/file/3ad408e47b56deb4b75c1.png">
+    <button class="rmp-button rmp-sharing rmp-module rmp-color-bg" type="button" aria-label="Share" style="display: block;">
+     <div class="rmp-module-button">
+      <span class="rmp-i rmp-i-sharing"></span>
+     </div>
+     <div class="rmp-hint rmp-color-bg" style="left: 50%; right: auto;">
+      Share
+     </div></button>
+    <div class="rmp-module-overlay">
+     <div class="rmp-overlay-wrapper">
+      <div class="rmp-overlay-title">
+       <span class="rmp-overlay-title-text">Share</span>
+      </div>
+      <div class="rmp-overlay-levels-area">
+       <div class="rmp-sharing-social">
+        <button class="rmp-button rmp-inline rmp-i rmp-i-facebook rmp-sharing-social-icons" type="button" aria-label="Facebook"></button>
+        <button class="rmp-button rmp-inline rmp-i rmp-i-twitter rmp-sharing-social-icons" type="button" aria-label="Twitter"></button>
+        <button class="rmp-button rmp-inline rmp-i rmp-i-email rmp-sharing-social-icons" type="button" aria-label="Email"></button>
+       </div>
+       <div class="rmp-sharing-link">
+        <span class="rmp-i rmp-i-link"></span>
+        <label for="rmp-sharing-link-rmpPlayer">Link to media</label>
+        <input class="rmp-sharing-input" aria-label="Link To Video" id="rmp-sharing-link-rmpPlayer" type="text" value="https://streamhub.hopto.org/jioplay.php?id=144&amp;ch=Colors_HD&amp;token=StreamHub">
+        <span class="rmp-i rmp-i-copy"></span>
+       </div>
+      </div>
+     </div>
+     <button class="rmp-button rmp-inline rmp-i rmp-module-overlay-icons rmp-module-overlay-play-pause rmp-i-play" type="button" aria-label="Play">
+      <div class="rmp-in-module-hint rmp-color-bg">
+       Play
+      </div></button>
+     <button class="rmp-button rmp-inline rmp-i rmp-i-close rmp-module-overlay-icons rmp-module-overlay-close" type="button" aria-label="Close">
+      <div class="rmp-in-module-hint rmp-color-bg">
+       Close
+      </div></button>
+    </div>
+   </div>
+   <div class="cen" style=""> 
+    <img class="nt" src="https://jiotv.catchup.cdn.jio.com/dare_images/shows/2022-07-31/220731144008.jpg"> 
+    <img class="ntt" src="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png"> 
+    <h5 class="cennt" style="font-size: 25px;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color: coral;text-shadow: -1px 0 black, 0 1px black, 1px 0 red, 0 -1px green;">NOW STREAMING<br><span style="font-size:3vw;padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;color: green;text-shadow: -1px 0 black, 0 1px black, 1px 0 blue, 0 -1px green;">Naagin 6</span></h5> 
+    <h5 style="font-size:3vw;" class="cent"> <span class="dot"></span>Watching Colors HD on JioTV</h5> 
+    <hr> 
+   </div>
+  </div> 
+  <script>
+var src = {
+hls: 'https://streamhub.hopto.org//amar.php?id=144' };
+var settings = {
+licenseKey: 'eWZmZ2d2Y3BrdEAxNTMwNjA2',isLiveDvr: true, iframeAllowed: true,
+sharing: true,ads: false, adParser: 'rmp-vast', adTagUrl:'demo.xml' ,
+src: src,
+quickRewind: 10,
+quickForward: 10 ,
+skin: 's3',  
+contentMetadata: {
+    poster: [
+      'https://jiotv.catchup.cdn.jio.com/dare_images/shows/2022-07-31/220731144008.jpg'
+    ]
+  },
+scaleMode: 'letterbox',
+posterScaleMode: 'stretch',
+autoHeightMode: true,
+automaticFullscreenOnLandscape: true,
+//skinBackgroundColor: '01579B',
+//skinButtonColor: 'ffffff',
+//skinAccentColor: 'ff0000',
+bitrateDataDisplayed:'kbps',
+autoHeightModeRatio:'1.7777777778',
+
+
+  logo: 'https://telegra.ph/file/3ad408e47b56deb4b75c1.png',
+  logoLoc: 'https://telegram.me/JoinStreamHub',
+  logoPosition: 'topleft',
+  logoWatermark: false
+
+};  
+
+var elementID = 'rmpPlayer';  
+var rmp = new RadiantMP(elementID);  rmp.init(settings); </script> 
+  <script>
+
+setTimeout(videovisible, 3000)
+function videovisible() {
+    document.getElementById('loading').style.display = 'none';
+    if (confirm("Join our Telegram Channel to get All Updates @JoinStreamHub") == true) {
+    window.open("https://t.me/JoinStreamHub", '_blank');
+}
+}
+</script> 
+  <center> 
+   <a href="catchup.php?id=144"><h4>See All 7 days catchups</h4></a> 
+   <h4 style="font-size:5vw;color: coral;text-shadow: -1px 0 black, 0 1px black, 1px 0 red, 0 -1px green;">Related Channels</h4> 
+  </center> 
+ </body>
+</html>
